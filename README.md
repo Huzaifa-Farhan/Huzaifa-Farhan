@@ -6,7 +6,7 @@ I'm an OntarioTech University student studying software engineering and pursuing
  -   Learning coding languages like CPP, HTML, JAVA, JavaScript, and Python.
  -   Attempting new coding assignments and interesting tasks to develop familiarity.
  -   Developing a new Italian Resturant website with HTML, CSS, and JavaScript.
- -   In the process of starting a new LMS based business for high school students!
+ -   In the process of starting a new LMS based business to assist high school students!
 
 ## Connect with me!
 [LinkedIn](https://www.linkedin.com/in/huzaifafarhan17/) | [Instagram](https://www.instagram.com/huzaifa.farh/)
