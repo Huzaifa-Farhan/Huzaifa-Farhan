@@ -1,11 +1,13 @@
 ## Hi there, I'm Huzaifa Farhan! 👋
 
-I'm an OntarioTech University student studying software engineering and pursuing my engineering career with new experiences. I'm eager to work in a situation where I can develop my leadership, communication, and critical thinking abilities further. Advanced in identifying the root causes of a variety of problems and applying engineering concepts to the best solutions. 
+I am a software engineering student at OntarioTech University, passionately advancing my career with diverse experiences. I am eager to engage in roles where I can hone my leadership, communication, and technical coding skills. I excel at diagnosing complex issues and applying engineering principles to devise effective solutions.  
+
 
 ### What am I currently doing?
- -   Learning coding languages like CPP, CSS, HTML, JAVA, JavaScript, and Python.
- -   Attempting new coding assignments and interesting tasks to develop familiarity.
- -   In the process of developing a new home renovations website for my personal business!
+ -   Learning coding languages like JAVA, Python, CPP, HTML, CSS, and, JavaScript.
+ -   Improving Pseudo and techincal coding skills daily. 
+ -   Creating new projects to build familiarity with Algorithms and Data Sturctures.
+ -   Expanding my network and consistently tackling LeetCode problems to secure internships in the near future!
 
 ## Connect with me!
 [LinkedIn](https://www.linkedin.com/in/huzaifafarhan17/) | [Instagram](https://www.instagram.com/huzaifa.farh/)
