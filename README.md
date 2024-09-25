@@ -1,16 +1,15 @@
 ## Hi there, I'm Huzaifa Farhan! 👋
 
-I am a software engineering student at OntarioTech University, passionately advancing my career with diverse experiences. I am eager to engage in roles where I can hone my leadership, communication, and technical coding skills. I excel at diagnosing complex issues and applying engineering principles to devise effective solutions.  
+I am a software engineering student at OntarioTech University, passionately advancing my career with a focus on quantitative development. I am eager to engage in roles that enhance my leadership, communication, and technical coding skills, particularly in the realm of quantitative analysis. I excel at diagnosing complex issues and applying engineering principles to devise effective solutions in financial technology.
 
     
 --> Live Demos of all projects here: [Huzaifa Farhan](https://huzaifafarhan.com/) <--
 
 
-### What am I currently doing?
- -   Learning coding languages like JAVA, Python, CPP, HTML, CSS, and, JavaScript.
- -   Improving Pseudo and techincal coding skills daily. 
- -   Creating new projects to build familiarity with Algorithms and Data Sturctures.
- -   Expanding my network and consistently tackling LeetCode problems to secure internships in the near future!
+## What am I currently doing?
+- Developing new projects focused on Python stock analysis and quantitative finance to deepen my understanding of financial modeling and data analytics.
+- Enhancing my pseudo and technical coding skills daily to better tackle quantitative challenges while also learning about software design architectures.
+- Expanding my network and consistently solving LeetCode problems to secure internships in the quantitative finance field!
 
 ## Connect with me!
 [LinkedIn](https://www.linkedin.com/in/huzaifafarhan17/) | [Instagram](https://www.instagram.com/huzaifa.farh/)
