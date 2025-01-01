@@ -7,9 +7,9 @@ I am a software engineering student at OntarioTech University, passionately adva
 
 
 ## What am I currently doing?
-- Developing new projects focused on Python stock analysis and quantitative finance to deepen my understanding of financial modeling and data analytics.
+- Developing a new big scope full stack projects focused on core principles of quantitative finance to deepen my understanding of financial modeling and data analytics.
 - Enhancing my pseudo and technical coding skills daily to better tackle quantitative challenges while also learning about software design architectures.
-- Expanding my network and consistently solving LeetCode problems to secure internships in the quantitative finance field!
+- Expanding my network and consistently solving problems to secure internships in the quantitative finance field!
 
 ## Connect with me!
 [LinkedIn](https://www.linkedin.com/in/huzaifafarhan17/) | [Instagram](https://www.instagram.com/huzaifa.farh/)
